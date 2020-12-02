@@ -1,0 +1,26 @@
+.nav {
+    background-color: cadetblue;
+    display: flex;
+}
+.nav_m {
+    border: 1px solid white;
+    background-color: aquamarine;
+    flex-grow: 1;
+}
+.outlook {
+    background-color: rgb(226, 204, 247) ;
+    display: flex;
+}
+.outlook_m {
+    border: 1px solid white;
+    background-color: rgb(150, 46, 247) ;
+    /* flex-grow: 1; */
+}
+
+.who {
+    background-color: rgb(231, 225, 236) ;
+}
+
+.recommend {
+    background-color: rgb(163, 90, 223) ;
+}

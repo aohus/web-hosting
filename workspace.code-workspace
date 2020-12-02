@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "github_aohus",
+			"path": ".."
+		},
+		{
+			"name": "gitlab_aohus",
+			"path": "../../gitlab_aohus"
+		}
+	],
+	"settings": {}
+}
